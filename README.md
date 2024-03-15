@@ -13,9 +13,10 @@ This notebook includes data scraping, which takes a website URL as an input and 
 8. Measuring the forntend and backend performance of website
 
  For scraping specific HTML tags along with titles and meta description
+ 
 #------------- Main ---------------#
 if __name__ == '__main__':
-  titleandmetaTags()
+ titleandmetaTags()
   tags = getTags('h1')
   for tag in tags:
      print(tag) # display tags 
@@ -27,6 +28,7 @@ what u wanted to disply just chnge the predefine code accordingly and print term
 
 example 1: 
 For extracting specific tags, all heading tags from h1-h6 along with titles and meta description
+
 #------------- Main ---------------#
 if __name__ == '__main__':
   titleandmetaTags()
