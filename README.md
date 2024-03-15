@@ -1,15 +1,16 @@
 
-Web scraping using beautiful soup(bs4)
+# **Web scraping using beautiful soup(bs4)**
+
 This notebook includes data scraping, which takes a website URL as an input and extracts the information listed below as an output from that webpage.
 
-Specific HTML tags along with titles and meta description
-Extract specific tags, heading tags from h1-h6 along with titles and meta description
-Extracting ALT tags
-For counting words inside a web page
-Inspection of broken links inside a webpage
-Extracting the source code of the webpage in google colab
-Extracting all URLs from a website without duplication
-Measuring the forntend and backend performance of website
+1. Specific HTML tags along with titles and meta description
+2. Extract specific tags, heading tags from h1-h6 along with titles and meta description
+3. Extracting ALT tags
+4. For counting words inside a web page
+5. Inspection of broken links inside a webpage
+6. Extracting the source code of the webpage in google colab
+7. Extracting all URLs from a website without duplication
+8. Measuring the forntend and backend performance of website
 
  For scraping specific HTML tags along with titles and meta description
 #------------- Main ---------------#
